@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", sans-serif;
+}
+
+body {
+  font-size: 18px;
+}
+
+.content-container {
+  background-color: #eeeeee;
+  margin: 33px 9px;
+  border-radius: 5px;
+}
+
+.header-tribute {
+  text-align: center;
+  font-size: 30px;
+  line-height: 1.5;
+}
+
+.header-title {
+  padding-top: 30px;
+}
+
+.header-para {
+  margin-bottom: 10px;
+  font-size: 18px;
+}
+
+.principal-section {
+  width: 98%;
+  background-color: white;
+  margin: 20px auto;
+  text-align: center;
+}
+
+.post-img {
+  width: 80%;
+  margin-top: 10px;
+}
+
+.img-description {
+  padding: 10px 0;
+}
+
+/* list of acomplish */
+
+.tribute-sub {
+  margin: 40px 0;
+  text-align: center;
+  font-size: 25px;
+}
+
+.list-container {
+  width: 40%;
+  margin: 0 auto;
+}
+
+.list li {
+  margin: 15px 0;
+  line-height: 1.8;
+  font-weight: 300;
+}
+
+.quote {
+  margin-top: 60px;
+  font-style: italic;
+  font-weight: 100;
+  line-height: 1.8;
+}
+
+.quote-author {
+  margin: 10px 0 60px 0;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.footer {
+  text-align: center;
+  font-size: 25px;
+  padding: 30px 0;
+  font-weight: bold;
+}
+
+.wiki-link:link {
+  text-decoration: none;
+}
